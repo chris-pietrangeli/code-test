@@ -24,4 +24,4 @@ THEN I can save my initials and score
 https://chris-pietrangeli.github.io/code-test/
 
 ## Screenshot
-<img src="assets/images/screenshot.png>
+<img src="assets/images/screenshot.png" >
